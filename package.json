@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.3"
-  }
+  },
+  "name": "mypetstore-api",
+  "description": "My Petstore Api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksuklondon/mypetstore-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksuklondon/mypetstore-api/issues"
+  },
+  "homepage": "https://github.com/ksuklondon/mypetstore-api#readme"
 }
